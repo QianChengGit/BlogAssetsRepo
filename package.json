@@ -1,0 +1,22 @@
+{
+  "name": "qianchengnpm-blogassetsrepo",
+  "version": "1.0.0",
+  "description": "博客静态资源仓库",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/QianChengGit/BlogAssetsRepo.git"
+  },
+  "keywords": [
+    "�博客图片"
+  ],
+  "author": "qianchengnpm",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/QianChengGit/BlogAssetsRepo/issues"
+  },
+  "homepage": "https://github.com/QianChengGit/BlogAssetsRepo#readme"
+}
